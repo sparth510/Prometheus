@@ -1,0 +1,4 @@
+- job_name: 'grafana'
+    static_configs:
+    - targets: ['ip:port']
+

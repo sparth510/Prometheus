@@ -1,0 +1,16 @@
+1) The metrics section specifies the custom metrics for collection and publishing to CloudWatch. If you're using the agent only to collect logs, you can omit the metrics section from the file.
+
+
+
+
+
+
+
+
+
+
+
+
+Cloud Watch pricing
+
+https://aws.amazon.com/cloudwatch/pricing/
